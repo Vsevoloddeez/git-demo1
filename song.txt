@@ -1,2 +1,4 @@
 Sword and spears
 Walls and shields
+Alive and Un-alive
+Corps and injured
